@@ -2,15 +2,19 @@
 
 Just another nerd...
 
-```bash
+- Commodore 16
+- Commodore 64
+- Amiga 500
+- Amiga 3000
+- Amiga 1200
+- Amiga 2000
+- PC
+- Commodore 128-D
+- Commodore SX-64
+- Apple
+- Plus4
 
-                                                         Amiga 1200
-                                                             |  
-Commodore 16 -> Commodore 64 -> Amiga 500 -> Amiga 3000 -----+-------> PC -> Apple
-                                                             |
-                                                         Amiga 2000
-
-```
+---
 
 ## Skills and Tools
 
