@@ -2,6 +2,16 @@
 
 Just another nerd...
 
+```bash
+
+                                                         Amiga 1200
+                                                             |  
+Commodore 16 -> Commodore 64 -> Amiga 500 -> Amiga 3000 -----+-------> PC -> Apple
+                                                             |
+                                                         Amiga 2000
+
+```
+
 ## Skills and Tools
 
 - Highly experienced in **Python**, **Django**, **Flask** and **Ruby**.
