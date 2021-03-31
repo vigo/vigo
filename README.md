@@ -9,10 +9,12 @@ Just another nerd...
 - Amiga 1200
 - Amiga 2000
 - PC
+- Amiga 600
+- Commodore 128
 - Commodore 128-D
 - Commodore SX-64
 - Apple
-- Plus4
+- Commodore Plus4
 
 ---
 
