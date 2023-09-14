@@ -22,6 +22,7 @@ free to fork/contribute my humble projects!
 
 # links
 
+- [Me][04]
 - [My blog in Turkish][01]
 - [My sole proprietorship][02]
 - [My basic resume][03]
@@ -44,4 +45,5 @@ free to fork/contribute my humble projects!
 
 [01]: https://ugur.ozyilmazel.com/ "Blog"
 [02]: https://vbyazilim.com/ "Company page"
-[03]: https://vigo.io/ "Just another nerd"
+[03]: https://vigo.io/resume/ "Resume of Uğur Özyılmazel"
+[04]: https://vigo.io/ "Just another nerd"
