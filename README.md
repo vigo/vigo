@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=vigo)
+
 # whoami
 
 I’m Uğur &ldquo;vigo&rdquo; Özyılmazel. I’m a computer programmer with
@@ -27,9 +29,9 @@ free to fork/contribute my humble projects!
 - [My sole proprietorship][02]
 - [My basic resume][03]
 
-# performance
+---
 
-https://skyline.github.com/ use vigo as name! :)
+[![vigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vigo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
