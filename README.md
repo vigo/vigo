@@ -28,6 +28,8 @@ free to fork/contribute my humble projects!
 - [My blog in Turkish][01]
 - [My sole proprietorship][02]
 - [My basic resume][03]
+- [Bilus Teknoloji][05]
+- [Bilustek, LLC][06]
 
 ---
 
@@ -38,6 +40,8 @@ free to fork/contribute my humble projects!
 <a target="_blank" href="https://www.patreon.com/vigoo"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 [01]: https://ugur.ozyilmazel.com/ "Blog"
-[02]: https://vbyazilim.com/ "Company page"
+[02]: https://vbyazilim.com/ "VB YAZILIM"
 [03]: https://vigo.io/resume/ "Resume of Uğur Özyılmazel"
 [04]: https://vigo.io/ "Just another nerd"
+[05]: https://bilusteknoloji.com/ "Bilus Teknoloji A.Ş."
+[06]: https://bilustek.com/ "Bilustek, LLC"
