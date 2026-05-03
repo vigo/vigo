@@ -33,11 +33,9 @@ free to fork/contribute my humble projects!
 
 ---
 
-[![vigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vigo)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<a target="_blank" href="https://www.patreon.com/vigoo"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+![GitHub Sponsors](https://img.shields.io/github/sponsors/vigo?style=for-the-badge&logo=githubsponsors&logoColor=white&label=GitHub%20Sponsor)
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20me-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/vigoo)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/vigo)
 
 [01]: https://ugur.ozyilmazel.com/ "Blog"
 [02]: https://vbyazilim.com/ "VB YAZILIM"
